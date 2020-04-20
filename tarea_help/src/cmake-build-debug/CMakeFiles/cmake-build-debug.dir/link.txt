@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cmake-build-debug.dir/main.cpp.o  -o cmake-build-debug libMyLib.a 

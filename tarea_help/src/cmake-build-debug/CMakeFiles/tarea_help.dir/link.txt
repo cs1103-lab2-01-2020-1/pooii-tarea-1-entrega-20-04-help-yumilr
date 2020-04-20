@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tarea_help.dir/template/stack.cpp.o CMakeFiles/tarea_help.dir/main.cpp.o  -o tarea_help 

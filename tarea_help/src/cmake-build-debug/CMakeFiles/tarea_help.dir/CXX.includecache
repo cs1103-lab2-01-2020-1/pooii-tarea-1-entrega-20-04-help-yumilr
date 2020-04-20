@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/lib.h
+iostream
+-
+vector
+-
+string
+-
+
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/main.cpp
+lib.h
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/lib.h
+template/stack.h
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/template/stack.h
+
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/template/stack.h
+../lib.h
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/lib.h
+

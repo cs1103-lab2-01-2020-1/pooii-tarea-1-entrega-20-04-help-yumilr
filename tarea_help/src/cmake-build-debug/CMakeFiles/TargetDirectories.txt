@@ -1,0 +1,3 @@
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/cmake-build-debug/CMakeFiles/tarea_help.dir
+/home/jlr/CLionProjects/tarea_poo_help/pooii-tarea-1-entrega-20-04-help-yumilr/tarea_help/src/cmake-build-debug/CMakeFiles/edit_cache.dir

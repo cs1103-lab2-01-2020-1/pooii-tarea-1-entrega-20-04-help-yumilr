@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/awa.dir/main.cpp.o CMakeFiles/awa.dir/template/stack.cpp.o  -o awa libMyLib.a 
